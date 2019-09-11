@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8b5e1b4-4274-47ce-aa57-00d3876f4574" name="Default Changelist" comment="" />
+    <list default="true" id="c8b5e1b4-4274-47ce-aa57-00d3876f4574" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/beeping.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/print/paper.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/print/pdf.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/reveal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/reveal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme/beige.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme/black.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme/blood.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme/league.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme/moon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme/night.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme/serif.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme/simple.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme/sky.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme/solarized.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme/source/beige.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme/source/black.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme/source/blood.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme/source/league.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme/source/moon.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme/source/night.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme/source/serif.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme/source/simple.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme/source/sky.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme/source/solarized.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme/source/white.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme/template/mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme/template/settings.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme/template/theme.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme/white.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/reveal.js" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -12,22 +48,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="105" column="39" selection-start-line="105" selection-start-column="39" selection-end-line="105" selection-end-column="39" />
+            <state relative-caret-position="253">
+              <caret line="85" column="38" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="38" />
               <folding>
-                <element signature="n#style#0;n#p#0;n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#section#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#section#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>H</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,9 +81,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-10" />
-    <option name="y" value="19" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="185" />
+    <option name="y" value="3" />
     <option name="width" value="1290" />
     <option name="height" value="663" />
   </component>
@@ -78,7 +118,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../reveal.js-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../32143514/impress.js-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -105,24 +145,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568081780879</updated>
-      <workItem from="1568081783987" duration="5114000" />
+      <workItem from="1568081783987" duration="12041000" />
+      <workItem from="1568164787882" duration="3397000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5114000" />
+    <option name="totallyTimeSpent" value="15438000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-10" y="19" width="1290" height="663" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2683706" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -130,6 +167,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -139,33 +180,16 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/impress.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-828" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/index.htm" />
+    <entry file="file://$PROJECT_DIR$/impress.html" />
+    <entry file="file://$PROJECT_DIR$/example.html" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="105" column="39" selection-start-line="105" selection-start-column="39" selection-end-line="105" selection-end-column="39" />
+        <state relative-caret-position="253">
+          <caret line="85" column="38" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="38" />
           <folding>
-            <element signature="n#style#0;n#p#0;n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#section#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

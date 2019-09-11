@@ -1,130 +1,94 @@
 <!doctype html>
 <html lang="en">
-
 <head>
-    <meta charset="utf-8">
-
+    <meta charset="utf-8" />
     <title>个人简历</title>
-
-    <link rel="stylesheet" href="./css/reveal.css">
-    <link rel="stylesheet" href="./css/theme/white.css" id="theme">
-    <style type="text/css" media="screen">
-        .slides section .has-dark-background,
-        .slides section .has-dark-background h3 {
-            color: #fff;
-        }
-        .slides section.has-light-background,
-        .slides section.has-light-background h3 {
-            color: #222;
-        }
-        .first{
-
-            color: #eeeeee !important;
-        }
-        h3{
-            color: #eeeeee !important;
+    <meta name="description" content="my remuse" />
+    <meta name="author" content="LCX" />
+    <link href="./css/3D-rotations.css" rel="stylesheet" />
+    <style>
+        h1,h2,h3,h4,p{
+            color: #E4C652;
         }
         p{
-            color: #eeeeee !important;
+            font-size: 20px;
         }
-        .textLeft{
-            text-align: left;padding:13%;
+        .step{
+            background: #eee;
         }
     </style>
 </head>
 
-<body>
-<!--["#2EC7C9", "#B6A2DE", "#D87A80", "#FFB980", "#5AB1EF"]-->
-<div class="reveal">
+<body class="impress-not-supported">
+<div id="impress" data-transition-duration="2000">
 
-    <div class="slides">
 
-        <section  data-background="#2EC7C9">
-            <h3 class="first">个人简历</h3>
-            <h4 class="first">前端研发</h4>
-        </section>
-
-        <section class="textLeft" data-background="#B6A2DE">
-            <p>姓名：刘晟鑫</p>
-            <p>现居住地：沈阳</p>
-            <p>工作年限：4年</p>
-            <p> 联系方式：18641356748</p>
-            <p>电子邮箱：liuxin66992@gmail.com</p>
-        </section>
-
-        <section class="textLeft" data-transition="zoom" data-background="#D87A80">
-            <h3>自我评价about me：</h3>
-            <p style="margin: 30px;"> 热爱阅读，喜欢专研问题。有良好的逻辑思维能力，和审美能力，有良好的自学能力，编写代码力求简洁规范。注重效率，有一定的抗压
-                能力。为人友善。</p>
-
-        </section>
-
-        <section class="textLeft" style="padding: 18%;" data-transition="zoom-in fade-out" data-background="#FFB980">
-             <h3>教育背景education：</h3>
-             <p style="margin: 80px;"> 辽宁工程技术大学 (本科)</p>
-        </section>
-
-        <section  data-background="#5AB1EF">
-            <h3>优势特长specialty:</h3>
-            <p>精通html css js 精通jquery</p>
-            <p>精通es6,es7语法</p>
-            <p>精通typescript，react,react-dom,router,redux,mobx,ant-design,dva,material</p>
-            <p> 掌握vue,vuex,vue-router</p>
-           <p> 掌握webpack,rollup</p>
-           <p> Github:https://github.com/liuxinlog</p>
-        </section>
-
-        <section class="textLeft" data-transition="convex" data-background="#2EC7C9">
-            <h3> 桌面应用开发:</h3>
-           <p> 主要应用技术: 1:nw.js(node-webkit),amazedUI</p>
-           <p>办公类的oa桌面端应用,使用nw,js框架开发,后端语言使用node.js UI组件使用的amazedUI配合jquery工具库进行开发</p>
-
-        </section>
-
-        <section class="textLeft" data-transition="convex-in concave-out" data-background="#B6A2DE">
-            <h3>数据可视化项目：</h3>
-            <p>主要技术:requireJs ，bootstrap ，jquery ，D3.js(V3版本)</p>
-            <p>大数据分析系统，通过时间维度，设备名称、类型对数据进行查找，通过图表对查找到的数据进行可视化展示。</p>
-        </section>
-
-        <section>
-            <section class="textLeft"  data-transition="zoom" data-background="#D87A80">
-                <h3>H5 手机端游戏：</h3>
-                <p>使用canvas ,flexible.js用于屏幕自适应 ,animate.css,wow.js动画库等技术框架</p>
-            </section>
-            <section data-transition="concave" data-background="#D17A80">
-                <p>使用canvas制作活动小游戏 ，通过工厂类实例化页面内容，通过array对数据进行存储，迭代，每秒刷新清空画布，实现动画效果展示</p>
-            </section>
-        </section>
-
-        <section class="textLeft" data-transition="convex" data-background="#D87A80">
-            <h3>React项目：</h3>
-            <p>使用react，typeScript，antd，dva 技术框架</p>
-            <p>银行贷款服务平台！</p>
-        </section>
-
-        <section data-transition="zoom" data-background="#2EC7C9">
-            <h3>期待您的来电！！</h3>
-            <audio src="./assets/beeping.wav" data-autoplay></audio>
-        </section>
-
+    <div id="overview" class="step overview" data-x="1350" data-y="100" data-z="100" data-scale="3" data-rotate-y="90">
+        <h1>个人简历</h1>
+        <h2>web前端</h2>
+        <p style="font-size: 16px;width: 100%;text-align: center;color: #E4C652;">友情提示：按键盘方向键观看，F5可以全屏</p>
     </div>
 
+    <div id="step-1" class="step" data-x="0" data-y="0" data-z="0"
+         data-goto-prev="step-8">
+        <h4>自我评价about me：</h4>
+        <p> 热爱阅读，喜欢专研问题。有良好的逻辑思维能力，和审美能力，有良好的自学能力，编写代码力求简洁规范。注重效率，有一定的抗压
+            能力。为人友善。</p>
+    </div>
+
+    <div id="step-2" class="step" data-x="420" data-y="-70" data-z="-250" data-rotate-z="45" data-rotate-y="-45" data-rotate-order="zyx">
+        <h4>基本资料：</h4>
+        <p>姓名：刘晟鑫</p>
+        <p>现居住地：沈阳</p>
+        <p>工作年限：4年</p>
+        <p> 联系方式：18641356748</p>
+        <p>电子邮箱：liuxin66992@gmail.com</p>
+        <p> 辽宁工程技术大学 (本科)</p>
+    </div>
+
+    <div id="step-3" class="step" data-x="700" data-y="350" data-z="-350" data-rotate-z="90" data-rotate-y="-90" data-rotate-order="zyx">
+        <h4>优势特长specialty:</h4>
+        <p>精通html css js 精通jquery</p>
+        <p>精通es6,es7语法</p>
+        <p>精通typescript，react,react-dom,router,redux,mobx,ant-design,dva,material</p>
+        <p>掌握vue,vuex,vue-router</p>
+        <p>掌握webpack,rollup</p>
+        <p> Github：https://github.com/liuxinlog</p>
+    </div>
+
+    <div id="step-4" class="step" data-x="422" data-y="780" data-z="-250" data-rotate-z="135" data-rotate-y="-135" data-rotate-order="zyx">
+        <h4>项目经验：</h4>
+        <p> 桌面应用开发:</p>
+        <p> 主要应用技术: 1:nw.js(node-webkit),amazedUI</p>
+        <p>办公类的oa桌面端应用,使用nw,js框架开发,后端语言使用node.js UI组件使用的amazedUI配合jquery工具库进行开发</p>
+    </div>
+
+    <div id="step-5" class="step" data-x="0" data-y="702" data-z="0" data-rotate-z="180" data-rotate-y="-180" data-rotate-order="zyx">
+        <h4>数据可视化项目：</h4>
+        <p>主要技术:requireJs ，bootstrap ，jquery ，D3.js(V3版本)</p>
+        <p>大数据分析系统，通过时间维度，设备名称、类型对数据进行查找，通过图表对查找到的数据进行可视化展示。</p>
+    </div>
+
+    <div id="step-6" class="step" data-x="379" data-y="780" data-z="270" data-rotate-z="135" data-rotate-y="-225" data-rotate-order="zyx">
+        <h4>H5 手机端游戏：</h4>
+        <p>应用canvas ,flexible.js用于屏幕自适应 ,animate.css,wow.js动画库等技术框架</p>
+        <p>使用canvas制作活动小游戏 ，通过工厂类实例化页面内容，通过array对数据进行存储，迭代，每秒刷新清空画布，实现动画效果展示</p>
+    </div>
+
+    <div id="step-7" class="step" data-x="700" data-y="350" data-z="350" data-rotate-z="90" data-rotate-y="-270" data-rotate-order="zyx">
+        <h4>React项目：</h4>
+        <p>使用react，typeScript，antd，dva 技术框架</p>
+        <p>银行贷款服务平台！</p>
+    </div>
+
+    <div id="step-8" class="step" data-x="379" data-y="-70" data-z="270" data-rotate-z="45" data-rotate-y="-315" data-rotate-order="zyx"
+         data-goto-next="step-1">
+       <p style="margin: 50%">期待成为您的同事</p>
+    </div>
 </div>
 
-<script src="./js/reveal.js"></script>
-
-<script>
-
-    Reveal.initialize({
-        center: true,
-        history: true,
-        transition: 'slide',
-        transitionSpeed: 'slow',
-        backgroundTransition: 'slide'
-    });
-
-</script>
+<script type="text/javascript" src="./js/impress.js"></script>
+<script>impress().init();</script>
 
 </body>
 </html>
